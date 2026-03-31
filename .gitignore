@@ -1,0 +1,6 @@
+# Ignore generated or auxiliary Python scripts anywhere in the course repo.
+**/*.py
+
+# Ignore notebooks that are quizzes or solutions.
+**/*Quiz*.ipynb
+**/*Solution*.ipynb
